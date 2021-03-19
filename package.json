@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mramdannugraha/fastify%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BDCRUD%1B%5B3~%1B%5BC%1B%5BC%1B%5BFastify.git"
+    "url": "git+https://github.com/mramdannugraha/CRUDFastify.git"
   },
   "author": "mramdannugraha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mramdannugraha/fastify%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BDCRUD%1B%5B3~%1B%5BC%1B%5BC%1B%5BFastify/issues"
+    "url": "https://github.com/mramdannugraha/CRUDFastify/issues"
   },
-  "homepage": "https://github.com/mramdannugraha/fastify%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BD%1B%5BDCRUD%1B%5B3~%1B%5BC%1B%5BC%1B%5BFastify#readme",
+  "homepage": "https://github.com/mramdannugraha/CRUDFastify#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "fastify": "^3.14.0",
